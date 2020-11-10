@@ -3,9 +3,87 @@
 	<trackList>
 
 		<track>
+			<creator>Niko</creator>
+			<title>Night Of Fire</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563160878317592/night_of_fire.m4a</location>
+		</track>
+		
+		<track>
+			<creator>Susan Bell</creator>
+			<title>My Only Star</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563120508665897/my_only_star.m4a</location>
+		</track>
+
+		<track>
+			<creator>Ken Blast</creator>
+			<title>The Top</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563073825144832/the_top.m4a</location>
+		</track>
+
+		<track>
+			<creator>m.o.v.e</creator>
+			<title>Around The World (Dave Rodgers Remix)</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563030443982928/around_the_world.m4a</location>
+		</track>
+
+		<track>
+			<creator>Max Coveri</creator>
+			<title>Running in the 90's</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563108554506240/running_in_the_90s.m4a</location>
+		</track>
+
+		<track>
+			<creator>Lou Grant</creator>
+			<title>Don't Stop The Music</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563102241685534/dont_stop_the_music.m4a</location>
+		</track>
+
+		<track>
+			<creator>Dave Rodgers</creator>
+			<title>Déjà Vu</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775562956271517706/deja_vu.m4a</location>
+		</track>
+
+		<track>
 			<creator>m.o.v.e</creator>
 			<title>Rage Your Dream</title>
-			<location>https://implyingrigged.info/w/images/8/82/Rage_Your_Dream.mp3</location>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563051537006602/rage_your_dream.m4a</location>
+		</track>
+
+		<track>
+			<creator>Anthony Bazooka</creator>
+			<title>Merci Twingo</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563157123891240/merci_twingo.m4a</location>
+		</track>
+
+		<track>
+			<creator>Manuel</creator>
+			<title>Gas Gas Gas</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563018251665418/gas_gas_gas.m4a</location>
+		</track>
+
+		<track>
+			<creator>GO 2</creator>
+			<title>Looka Bomba</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563155195559945/looka_bomba.m4a</location>
+		</track>
+
+		<track>
+			<creator>Niko</creator>
+			<title>Night Of Fire (Christmas Mix)</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563147217993768/night_of_fire_christmas.m4a</location>
+		</track>
+
+		<track>
+			<creator>Leslie Parrish</creator>
+			<title>Save Me</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563058662604830/save_me.m4a</location>
+		</track>
+
+		<track>
+			<creator>Man Power</creator>
+			<title>Spark in the Dark</title>
+			<location>https://cdn.discordapp.com/attachments/775560795051524106/775563085532102666/spark_in_the_dark.m4a</location>
 		</track>
 
 	</trackList>
